@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First App</string>
+    <string name="editUsuario">User</string>
+    <string name="editClave">Password</string>
+    <string name="btnAcceder">Login</string>
+    <string name="btnAcercaDe">About</string>
+    <string name="btnSalir">Exit</string>
+    <string name="GitHub">GitHub, Computer Programmer</string>
+    <string name="QueEsGitHub">GitHub is a collaborative platform that uses Git to host development projects. It allows developers to work together, manage source code, track changes, collaborate on writing code, review each other\'s work, and manage issues and pull requests. It is popular for both open source and private projects.</string>
+    <string name="textValentina">Nieto Valentina</string>
+    <string name="btnContacto">Contact</string>
+    <string name="btnCorreo">Mail</string>
+    <string name="btnRegresar">Go back</string>
+    <string name="textDesarrollador">Software Developer</string>
+</resources>
